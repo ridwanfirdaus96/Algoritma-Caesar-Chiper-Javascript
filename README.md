@@ -1,9 +1,10 @@
 # Algoritma-Caesar-Chiper-Javascript
 
-yang dibutuhkan:
+## yang dibutuhkan:
 - npm
 - git
-tutorial:
+
+## tutorial:
 - bikin folder (terserah namanya) dan simpan di localhost
 - buka git cmd dan arahkan folder ke folder yang kamu buat
 - clone dari projek ini ke folder di atas
